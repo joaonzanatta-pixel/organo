@@ -1,10 +1,8 @@
 
 import { useState } from 'react';
 import Banner from './componentes/Banner/banner';
-import Botao from './componentes/Botao';
 import Formulario from './componentes/Formulario';
 import Time from './componentes/Times/Times';
-import Colaborador from './componentes/colaborador/colaborador';
 import Rodape from './componentes/rodape/rodape';
 
 

@@ -1,4 +1,4 @@
-import Formulario from '../Formulario'
+
 import './ListaSuspensa.css'
 const ListaSuspensa = (props) => {
 
